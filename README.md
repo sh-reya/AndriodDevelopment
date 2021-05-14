@@ -1,6 +1,6 @@
 # AndriodDevelopment
 
- #### Mini project 1:
+ #### Mini project 1 (Birthday Greeting App):
    #### Day1
     ##### Constraint Layout, text view, margin, dp vs pixle, buttons, input, id of elements.
     
