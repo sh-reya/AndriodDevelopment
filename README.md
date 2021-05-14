@@ -12,8 +12,5 @@
           intent.putExtra(), intent.getStringExtra(),
           Horizontal bias, Vertical bias, dp vs sp.
           
-OUTPUT
-![](img/1.jpeg)
 ![](img/2.jpeg)
-![](img/3.jpeg)
-![](img/4.jpeg)
+
