@@ -6,3 +6,9 @@
     
    #### Day2
     ##### Enabling new activity, Toast, Taking user input
+    
+   #### Day3
+    ##### Paasing Data from one screen to another, Intent, startActivity(), inserting images, intent.putExtra(), intent.getStringExtra(),
+          Horizontal bias, Vertical bias, dp vs sp.
+          
+    
