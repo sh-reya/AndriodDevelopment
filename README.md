@@ -8,7 +8,15 @@
     ##### Enabling new activity, Toast, Taking user input
     
    #### Day3
-    ##### Paasing Data from one screen to another, Intent, startActivity(), inserting images, intent.putExtra(), intent.getStringExtra(),
+    ##### Paasing Data from one screen to another, Intent, startActivity(), inserting images, 
+          intent.putExtra(), intent.getStringExtra(),
           Horizontal bias, Vertical bias, dp vs sp.
           
-    
+OUTPUT
+![](img/1.jpeg)
+
+![](img/2.jpeg)
+
+![](img/3.jpeg)
+
+![](img/4.jpeg)
