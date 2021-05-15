@@ -14,3 +14,8 @@
           
 ![](img/2.jpeg)
 
+  #### Mini project 2 (Meme Sharing App):
+   #### Day1
+    ##### wireframing, avatar, guidelines, API definition.
+    Working on the first sceen of app.
+
