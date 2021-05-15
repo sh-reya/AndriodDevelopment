@@ -18,4 +18,8 @@
    #### Day1
     ##### wireframing, avatar, guidelines, API definition.
           Working on the first sceen of app.
-
+          
+   #### Day2
+    ##### Volley Library, Advantages of volley library, dependencies,
+          Sending sinple request for API call, manifest, 
+          creating a new request, glide.
