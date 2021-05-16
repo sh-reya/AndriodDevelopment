@@ -23,3 +23,7 @@
     ##### Volley Library, Advantages of volley library, dependencies,
           Sending sinple request for API call, manifest, 
           creating a new request, glide.
+   #### Day3
+    ##### Adding progress bar, enabling share button, using intent to share,
+          dealing with volley using singleton
+  ![](img/m1.jpeg)
