@@ -1,6 +1,6 @@
 # AndriodDevelopment
 
- #### Mini project 1 (Birthday Greeting App):
+ ## Mini project 1 (Birthday Greeting App):
    #### Day1
     ##### Constraint Layout, text view, margin, dp vs pixle, buttons, input, id of elements.
     
@@ -14,7 +14,7 @@
           
 ![](img/2.jpeg)
 
-  #### Mini project 2 (Meme Sharing App):
+  ## Mini project 2 (Meme Sharing App):
    #### Day1
     ##### wireframing, avatar, guidelines, API definition.
           Working on the first sceen of app.
