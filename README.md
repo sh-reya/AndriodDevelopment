@@ -27,3 +27,9 @@
     ##### Adding progress bar, enabling share button, using intent to share,
           dealing with volley using singleton
   ![](img/meme1.jpeg)
+  
+  
+   ## Mini project 3 (News App):
+   #### Day1
+    ##### Recycler view, List view, adapter, layout manager, view holder,
+          adding layout manager, adding adapter, changing style of title bar.
