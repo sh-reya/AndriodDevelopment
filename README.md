@@ -30,6 +30,7 @@
   
   
    ## Mini project 3 (News App):
+   ### Scrollable 
    #### Day1
     ##### Recycler view, List view, adapter, layout manager, view holder,
           adding layout manager, adding adapter, changing style of title bar.
@@ -37,3 +38,4 @@
    #### Day2
      ##### API call, clickable, google tabs, changing color of tabs, 
      changing color of toolbar, adding logo.
+![](img/n1.jpeg)
