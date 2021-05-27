@@ -12,7 +12,7 @@
           intent.putExtra(), intent.getStringExtra(),
           Horizontal bias, Vertical bias, dp vs sp.
           
-![](img/2.jpeg)
+
 
   ## Mini project 2 (Meme Sharing App):
    #### Day1
@@ -26,7 +26,7 @@
    #### Day3
     ##### Adding progress bar, enabling share button, using intent to share,
           dealing with volley using singleton
-  ![](img/meme1.jpeg)
+
   
   
    ## Mini project 3 (News App):
@@ -38,4 +38,10 @@
    #### Day2
      ##### API call, clickable, google tabs, changing color of tabs, 
      changing color of toolbar, adding logo.
-![](img/n1.jpeg)
+     
+   ## Mini project 4 (Notes taking app):
+   #### Day1
+    ##### ROOM DB
+          entity, Data Access Object (DAO), SQLite
+
+  
