@@ -43,5 +43,11 @@
    #### Day1
     ##### ROOM DB
           entity, Data Access Object (DAO), SQLite
+   #### Day2
+    ##### Livedata, Repository
+          suspend, live data in database, inset, del, retrive data from database,
+          Moved to the next layer of the project after completing Room DB i.e., 
+          Repository. Got to know the importance and functioning of repository in
+          order to handles data from multiple sources.
 
   
