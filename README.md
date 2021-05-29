@@ -49,5 +49,13 @@
           Moved to the next layer of the project after completing Room DB i.e., 
           Repository. Got to know the importance and functioning of repository in
           order to handles data from multiple sources.
+  #### Day2
+     ##### VIEW MODEL
+           Seperation of concern, Livecycle aware, Survives configuration changes.
+           Above mentioned are a few advantages of view model.
+           After compleing the database and repository, today I have implemented the View model.
+           Next step is to move towards activity.
+    
+
 
   
